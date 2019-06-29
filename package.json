@@ -135,7 +135,7 @@
     "gitbook-plugin-lunr": "1.2.0",
     "gitbook-plugin-search": "2.2.1",
     "gitbook-plugin-sharing": "1.0.2",
-    "gitbook-plugin-theme-default": "git+https://github.com/dhanifudin/theme-default.git#indonesian",
+    "gitbook-plugin-theme-default": "git+https://github.com/dhanifudin/gitbook-plugin-theme-default.git",
     "github-slugid": "1.0.1",
     "graceful-fs": "4.1.4",
     "i18n-t": "1.0.1",
